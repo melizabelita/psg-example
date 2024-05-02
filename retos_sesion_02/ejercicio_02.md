@@ -12,4 +12,7 @@ Tengo el pelo rizado y salpimentado.  Dejé los químicos a un lado, ahora disfr
 
 Por una inquietud descubrí a la comunidad de Python y ahora estoy en el proceso de aprendizaje; aunque, debo admitirlo, me cuesta entender los términos que se utilizan.
 
+Mi cita favorita es:
+> Solos podemos hacer poco, juntos podemos hacer mucho más - Helen Keller
+
 Saludos a todos y gracias por la oportunidad.
