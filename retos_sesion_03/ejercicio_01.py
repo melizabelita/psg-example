@@ -1,0 +1,5 @@
+print ("Mi Primer Libro")
+print ("La Cabaña del Tío tom")
+print ("Autor:")
+print ("Harriet Beecher Stowe")
+print ("Fue el primer libro que me regaló mi papá.  Gracias a ese regalo las páginas de los libros me abrieron las puertas a nuevos mundos y realidades")
