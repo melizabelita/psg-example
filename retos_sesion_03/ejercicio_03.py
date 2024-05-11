@@ -1,0 +1,20 @@
+print ("Tutorial: Cómo Barrer una Habitación - Para Personas con Discapacidad Visual");
+print ("Materiales:");
+print ("Escoba de cerdas suaves.");
+print ("Recogedor de basura. ");
+print ("Trapo o mopa para limpiar rincones (opcional). ");
+print ("Pasos a Seguir: ");
+print ("1. Preparación: ");
+print ("Antes de comenzar, revisar que la habitación esté despejada de obstáculos que puedan dificultar el barrido. ");
+print ("Dividir el ambiente en cuadrantes.  Tomar en cuenta los posibles puntos de referencia.")
+print ("2. Agarra la Escoba: ");
+print ("El orden y secuencia es importante.  Localizar la escoba y el recogedor de basura en un lugar fácil de recordar y ubicar. ");
+print ("Tomar la escoba por el mango. ");
+print ("3. Barrido: ");
+print ("Comenzar desde un extremo de la habitación (1er. Cuadrante) y avanzar lentamente hacia el segundo cuadrante, haciendo movimientos amplios y firmes con la escoba, realizando movimientos de adelante hacia atrás, para cubrir todo el piso de manera uniforme. ");
+print ("Utilizar pies y manos para explorar el área y detectar posibles zonas que necesiten mayor atención. ");
+print ("4. Recoger la Suciedad: ");
+print ("Una vez que se haya barrido toda la habitación, localizar el recogedor y recoger la basura moviéndolo en dirección opuesta al barrido para recoger la suciedad y los residuos. ");
+print ("5. Limpieza Final: ");
+print ("Para realizar una limpieza final utilizar un trapo húmedo para limpiar los rincones y áreas de difícil acceso. ");
+print ("Una vez que se haya completado el barrido y la limpieza, guardar la escoba y el recogedor. ");
